@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+data/features_meaning.csv
+data/knee_features.csv
+.DS_Store
 .Python
 build/
 develop-eggs/
